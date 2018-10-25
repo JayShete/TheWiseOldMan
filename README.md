@@ -13,6 +13,6 @@ Installation:<br>
   <br>
 <br>
 Dependancies:<br>
-  Discord.py<br>
-    can be installed with the command python -m pip install discord.py==0.16.12<br>
-  Python 3.6<br>
+<tab>  Discord.py<br>
+<tab>    can be installed with the command python -m pip install discord.py==0.16.12<br>
+<tab>  Python 3.6<br>
