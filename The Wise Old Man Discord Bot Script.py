@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'NTA0MDgxNDE5OTA0MDkwMTIy.DrEjfA.6pgNHT7nhCAAs0sFQ5edHryNiag'
+TOKEN = 'This Is The Place To Put Your Token'
 q = open("assets/Questions.txt","a+")
 a = open("assets/Answers.txt","a+")
 def ff():
